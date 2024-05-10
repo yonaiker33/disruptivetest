@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "663d3a99384b30fb1ea6a366"
+  },
+  "name": "Videos",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663d47b9343866c7b5111236"
+  },
+  "name": "Imagenes",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663d47c0343866c7b511123b"
+  },
+  "name": "Textos",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663db1b6cb9bdf3afc06ce32"
+  },
+  "name": "Documentos",
+  "__v": 0
+}]

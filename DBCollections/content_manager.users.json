@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "663c9de0243bf0450ccce452"
+  },
+  "username": "yon33",
+  "email": "yon33@gmail.com",
+  "password": "$2b$10$9VC4MbduGasAdHLWWTE.z.JfiIyZWZiCM3zkatSN8ZIENdrfeWIvm",
+  "role": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663df248a1595a46723acc57"
+  },
+  "username": "Jose33",
+  "email": "jose33@gmail.com",
+  "password": "$2b$10$LdhmEI2adZFoh3ErIglZRu9B3gzKKzIZFSESLHqSJodw212mZHfEG",
+  "role": "lector",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663df324a1595a46723acc69"
+  },
+  "username": "Chris33",
+  "email": "chris33@gmail.com",
+  "password": "$2b$10$9M91EqpD86hB0yzyri1K5ehU/kUWiGodT943ZtQQUT3q3y/7MENO.",
+  "role": "creador",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663dfd7d7a4e7e08df913de5"
+  },
+  "username": "Luis33",
+  "email": "luis33@gmail.com",
+  "password": "$2b$10$q2ewwjjKtfoP6FEGmXh6feGB/v8VWRNivm11rZZsA.owJGt/Di1We",
+  "role": "creador",
+  "__v": 0
+}]

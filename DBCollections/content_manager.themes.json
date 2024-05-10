@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "663d4891343866c7b5111251"
+  },
+  "name": "Matemáticas",
+  "permissions": {
+    "Imagenes": true,
+    "Textos": true
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663d48f5343866c7b511125a"
+  },
+  "name": "Deportes",
+  "permissions": {
+    "Textos": true,
+    "Imagenes": true,
+    "Videos": true
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663d49b8343866c7b511126d"
+  },
+  "name": "Ciencias",
+  "permissions": {
+    "Videos": true,
+    "Textos": true,
+    "Documentos": true
+  },
+  "__v": true
+},
+{
+  "_id": {
+    "$oid": "663d4a3d343866c7b511127a"
+  },
+  "name": "Manualidades",
+  "permissions": {
+    "Videos": true,
+    "Imagenes": true
+  },
+  "__v": 0
+}]
